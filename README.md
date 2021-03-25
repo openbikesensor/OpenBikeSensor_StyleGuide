@@ -10,4 +10,5 @@ How and when you might use the respective media, you will find in our Style Guid
 Please feel free to contact us:
 
 https://OpenBikeSensor.org
+
 info@openbikesensor.org
