@@ -9,6 +9,5 @@ How and when you might use the respective media, you will find in our Style Guid
 ## Interested?
 Please feel free to contact us:
 
-https://OpenBikeSensor.org
-
+https://OpenBikeSensor.org<br>
 info@openbikesensor.org
