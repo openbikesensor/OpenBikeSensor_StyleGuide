@@ -14,7 +14,7 @@ Das Logo für das Open Citizen Science Projekt <a href="https://github.com/openb
 
 ### Logo Design Konzept
 
-Das Logo nimmt Bezug auf die Idee des OpenBikeSensor Abstandsmesser, ein Gerät, das den Überholabstand von Fahrzeugen zu Radfahrenden misst. Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version der Typo, die in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
+Das Logo nimmt Bezug auf die Idee des Überholabstandsmessers, ein Gerät, das den Überholabstand von Fahrzeugen zu Radfahrenden misst. Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version der Typo, die in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
 
 Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Beschriftungen zum Beispiel für Bus- oder auch Taxi-Spuren kennst. Die drei Worte, arrangiert in einzelnen Spuren, sind wiederum im Quadrat angeordnet als Referenz auf das viereckige Gehäuse des Sensors selbst. Der verbleibende Raum in dieser engen Situation wird von den Maßlinien eingenommen, die ihrerseits die Abstände symbolisieren.
 
