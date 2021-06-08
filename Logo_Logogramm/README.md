@@ -26,13 +26,15 @@ Aufbauend auf den Gestaltungsoptionen unter einer <a rel="license" href="http://
 
 Die am häufigsten benötigten Varianten für die Darstellung auf Bildschirmen bzw. im Netz sowie für den Druck findest Du in den Ordnern wie folgt:
 
-* <a href="./Logogramm">Logogramm</a> (Logo mit Schriftzug)
-* <a href="./Logo">Logo</a> (Kurzform ohne Schriftzug)
+* <a href="./Logogramm">Logogramm</a> (Logo mit Schriftzug, Standard)
+* <a href="./Logo">Logo</a> (Kurzform des Akronyms, für besonders kleine Darstellungen)
 
 Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issues</a> zu öffnen oder auch direkt auf uns zuzukommen:
 info@openbikesensor.org
 https://OpenBikeSensor.org
 
+
+Wir wünschen Dir viel Freude mit unserem Logo!
 
 - - -
 
@@ -52,13 +54,20 @@ In the logo the gylphs are stretched like one might recognise from the signage p
 
 You may and shall use this logo for all projects, activities, software and hardware in connection with the citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> as long as you comply to the general licence agreements (LGPL) of the community and their sources as well as our hacking ethics.
 
-Building on the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, Lukas contributed to the project, you are free to create your own design. Please make sure to follow the general rules and guidelines the community provides for the project. The current version you can find in the respective repository via <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a>.
+Building on the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, Lukas contributed to the project, you are free to create your own design. Please make sure to follow the general rules and guidelines the community provides for the project. The current version you will find in the respective repository via <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a>, page 13f.
 
-There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
+The most frequent and commonly used variations of the logo for screen and print design you may find in the folders as follows:
+
+* <a href="./Logogramm">Logogramm</a> (Logo with  logotype, wordmark, lettermark)
+* <a href="./Logo">Logo</a> (short version with the acronym)
 
 
+Please feel free to open an <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issue</a> for further questions, ideas and requests or contact us directly via
+info@openbikesensor.org
+https://OpenBikeSensor.org
 
-Have fun using it! 
+
+Have fun using our logo! 
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
