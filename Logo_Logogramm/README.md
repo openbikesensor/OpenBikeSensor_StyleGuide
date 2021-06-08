@@ -69,8 +69,11 @@ https://OpenBikeSensor.org
 
 Have fun using our logo! 
 
-## License
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
-Please attribute any distribution or derivative to <dein Name> and link to this URL: https://github.com/turbo-distortion/OpenBikeSensor-Logo
+# Lizenz des / License of the original logo by Lukas Betzler
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The logo design of OpenBikeSensor is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute any distribution or derivative to Lukas Betzler / OpenBikeSensor: https://openbikesensor.org
+
+Source original logo design by Lukas: 
+https://github.com/turbo-distortion/OpenBikeSensor-Logo
 
 </div>
