@@ -76,7 +76,7 @@ The most frequent and commonly used variations of the logo for screen and print 
 * <a href="./Logo">Logo</a> (short version with the acronym)
 
 
-Please feel free to open an <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issue</a> for further questions, ideas and requests or contact us directly via
+Please feel free to open an <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issue</a> for further questions, ideas and requests or contact us directly via  
 info@openbikesensor.org  
 https://OpenBikeSensor.org
 
