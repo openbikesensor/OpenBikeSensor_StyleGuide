@@ -2,7 +2,7 @@
 
 <i><a href="#english">English version below</a></i>
 
-![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg =450px)
+![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg | =450px)
 
 ![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg){width=25%}
 
