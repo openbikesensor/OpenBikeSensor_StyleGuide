@@ -2,21 +2,21 @@
 
 <i><a href="#english">English version below</a></i>
 
-<div style="float: left;">
+<div style="float: left">
 
-	<img 
-		src="./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg"
-		alt="OpenBikeSensorLogo, Version weiß auf blau"
-		width="33%"
-	/>
+<img 
+	src="./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg"
+	alt="OpenBikeSensorLogo, Version weiß auf blau"
+	width="33%"
+/>
 
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 
-	<img 
-		src="./Logo/screen_web/white-on-blue/OpenBikeSensor_Logo_white-on-blue_210x210mm_1000x1000px.png"
-		alt="OpenBikeSensorLogo, Version weiß auf blau"
-		width="33%"
-	/>
+<img 
+	src="./Logo/screen_web/white-on-blue/OpenBikeSensor_Logo_white-on-blue_210x210mm_1000x1000px.png"
+	alt="OpenBikeSensorLogo, Version weiß auf blau"
+	width="33%"
+/>
 
 </div>
 
