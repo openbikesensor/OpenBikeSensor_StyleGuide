@@ -2,7 +2,7 @@
 
 <i><a href="#english">English version below</a></i>
 
-<div style="float: left">
+<div style="display: inline; float: left">
 
 <img 
 	src="./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg"
