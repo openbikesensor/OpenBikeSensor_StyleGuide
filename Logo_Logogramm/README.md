@@ -10,8 +10,6 @@
 	width="33%"
 />
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
 <img 
 	src="./Logo/screen_web/white-on-blue/OpenBikeSensor_Logo_white-on-blue_210x210mm_1000x1000px.png"
 	alt="OpenBikeSensorLogo, Version weiß auf blau"
@@ -43,8 +41,8 @@ Die am häufigsten benötigten Varianten für die Darstellung auf Bildschirmen b
 * <a href="./Logogramm">Logogramm</a> (Logo mit Schriftzug, Standard)
 * <a href="./Logo">Logo</a> (Kurzform des Akronyms, für besonders kleine Darstellungen)
 
-Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issues</a> zu öffnen oder auch direkt auf uns zuzukommen:
-info@openbikesensor.org
+Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issues</a> zu öffnen oder auch direkt auf uns zuzukommen:  
+info@openbikesensor.org  
 https://OpenBikeSensor.org
 
 
@@ -79,7 +77,7 @@ The most frequent and commonly used variations of the logo for screen and print 
 
 
 Please feel free to open an <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issue</a> for further questions, ideas and requests or contact us directly via
-info@openbikesensor.org
+info@openbikesensor.org  
 https://OpenBikeSensor.org
 
 
@@ -87,7 +85,7 @@ Have fun using our logo!
 
 # Lizenz des / License of the original logo by Lukas Betzler
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The logo design of OpenBikeSensor is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute any distribution or derivative to Lukas Betzler / OpenBikeSensor: https://openbikesensor.org
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />The logo design of OpenBikeSensor is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. Please attribute any distribution or derivative to Lukas Betzler / OpenBikeSensor: https://openbikesensor.org  
 
 Source original logo design by Lukas: 
 https://github.com/turbo-distortion/OpenBikeSensor-Logo
