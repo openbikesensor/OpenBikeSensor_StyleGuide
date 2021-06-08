@@ -22,9 +22,9 @@ Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Besch
 
 Dieses Logo kann und soll für alle Vorhaben, Geräte und Programme des Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> verwendet werden, solange die dort vorgegebenen Lizenzbestimmungen (LGPL) eingehalten werden.
 
-Aufbauend auf den Gestaltungsoptionen unter einer Creative Comonse Lizenz, die uns freundlicherweise Lukas ermöglicht, gelten die in unseren Gestaltungsrichtlinien festgelegten Regeln zur Verwendung des Logos. Die aktuelle Version findest Du in diesem Repository unter <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a> (Gestaltungsrichtlinien), Seite 13f.
+Aufbauend auf den Gestaltungsoptionen unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Lizenz mit Namensnennung, Teilen unter gleichen Bedingungen 4.0 international</a> (CC-BY-SA), die uns freundlicherweise Lukas ermöglicht, gelten die in unseren Gestaltungsrichtlinien festgelegten Regeln zur Verwendung des Logos. Die aktuelle Version findest Du in diesem Repository unter <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a> (Gestaltungsrichtlinien), Seite 13f.
 
-Die am häufigsten benötigten Varianten für die Darstellungen digital und für den Druck findest Du in den Ordnern wie folgt:
+Die am häufigsten benötigten Varianten für die Darstellung auf Bildschirmen bzw. im Netz sowie für den Druck findest Du in den Ordnern wie folgt:
 
 * <a href="/Logogramm">Logogramm</a> (Logo mit Schriftzug)
 * <a href="/Logo">Logo</a> (Kurzform ohne Schriftzug)
