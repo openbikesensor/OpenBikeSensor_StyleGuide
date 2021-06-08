@@ -2,9 +2,11 @@
 
 <i><a href="#english">English version below</a></i>
 
-![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg?s=250)
-
-![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg){width=25%}
+<img 
+	src="./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg"
+	alt="OpenBikeSensorLogo, Version weiß auf blau"
+	width="33%"
+/>
 
 ### Herkunft & Designer
 
