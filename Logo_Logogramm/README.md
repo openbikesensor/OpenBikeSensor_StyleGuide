@@ -8,15 +8,25 @@
 	width="33%"
 />
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<img 
+	src="./Logo/screen_web/white-on-blue/OpenBikeSensor_Logo_white-on-blue_210x210mm_1000x1000px.png"
+	alt="OpenBikeSensorLogo, Version weiß auf blau"
+	width="33%"
+/>
+
 ### Herkunft & Designer
 
-Das Logo für das Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> wurde entwickelt von <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a>. Es entstand ursprünglich für das alternative Fahrrad-Forum <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> / Deutschland.
+Logogramm und Logo für das Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> wurden entwickelt von <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a>. Sie entstanden ursprünglich für das alternative Fahrrad-Forum <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> / Deutschland.
 
 ### Logo Design Konzept
 
-Das Logo nimmt Bezug auf die Idee des Überholabstandsmessers, ein Gerät, das den Überholabstand von Fahrzeugen zu Radfahrenden misst. Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version der Typo, die in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
+Das Logogramm nimmt Bezug auf die originäre Idee des Überholabstandsmessers, ein Gerät, das den Überholabstand von Fahrzeugen zu Radfahrenden misst. Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version der Typo, die in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
 
 Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Beschriftungen zum Beispiel für Bus- oder auch Taxi-Spuren kennst. Die drei Worte, arrangiert in einzelnen Spuren, sind wiederum im Quadrat angeordnet als Referenz auf das viereckige Gehäuse des Sensors selbst. Der verbleibende Raum in dieser engen Situation wird von den Maßlinien eingenommen, die ihrerseits die Abstände symbolisieren.
+
+Das Logogramm, das den vollständigen Schriftzug enthält, wird ergänzt um eine Version des Logos mit dem Akronym OBS. Es greift die Design-Elemente des Logogramms auf und reduziert sie. Das Logo ist vor allem für Miniatur-Anwendungen (favicons, emoticons usw.) rund um das Projekt gedacht.
 
 ### Nutzungsbedingungen
 
@@ -42,11 +52,11 @@ Wir wünschen Dir viel Freude mit unserem Logo!
 
 ### Origin & Designer
 
-This logo was created by <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a> as a contribution to the open citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a>. It originates out of the cycling initiative <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> in Germany.
+Logogramm and logo were created by <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a> as a contribution to the open citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a>. It originates out of the cycling initiative <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> in Germany.
 
 ### Concept of the logo design
 
-The concept of the logo is based on the idea of the respective sensor, a small electronic device attached to a bicycle that measures and records the distance to passing vehicles during the ride. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
+The concept of the logo is based on the derivative idea of the respective sensor, a small electronic device attached to a bicycle that measures and records the distance to passing vehicles during the ride. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
 
 In the logo the gylphs are stretched like one might recognise from the signage painted directly on the tarmac, e.g. bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor itself. The space that remains in this tight situation is filled up by the lines that mark the distance. 
 
