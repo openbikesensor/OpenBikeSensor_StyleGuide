@@ -8,18 +8,26 @@ Das Logo für das Open Citizen Science Projekt <a href="https://github.com/openb
 
 ### Logo Design Konzept
 
-Das Logo nimmt Bezug auf die Idee des OpenBikeSensor Abstandsmessers, ein Gerät, das den Überholabstand von überholenden Fahrzeugen zu Radfahrenden misst. Die Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version des Schriftbildes, das in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
+Das Logo nimmt Bezug auf die Idee des OpenBikeSensor Abstandsmesser, ein Gerät, das den Überholabstand von Fahrzeugen zu Radfahrenden misst. Schriftart ist die <a href="https://www.linotype.com/de/5387937/din-2014-schriftfamilie.html" alt="Schriftart DIN 2014 via Monotype GmbH" rel="noopener noreferrer nofollow">DIN2014</a>, eine überarbeitete Version der Typo, die in Deutschland für die Beschriftung von Straßen und Verkehrswegen genutzt wird.
 
-Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Beschriftungen zum Beispiel für Bus- oder auch Taxi-Spuren kennst. Die drei Worte, arrangiert in einzelnen Spuren, sind wiederum im Quadrat angeordnet als Referenz auf das viereckige Aussehen des Sensors selbst. Der verbleibende Raum in dieser engen Situation wird von den Maßlinien eingenommen, die ihrerseits die Abstände symbolisieren.
+Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Beschriftungen zum Beispiel für Bus- oder auch Taxi-Spuren kennst. Die drei Worte, arrangiert in einzelnen Spuren, sind wiederum im Quadrat angeordnet als Referenz auf das viereckige Gehäuse des Sensors selbst. Der verbleibende Raum in dieser engen Situation wird von den Maßlinien eingenommen, die ihrerseits die Abstände symbolisieren.
 
-### Nutzungsoptionen
+### Nutzungsbedingungen
 
-Aufbauend auf den Gestaltungsoptionen unter einer Creative Comonse Lizenz, die uns freundlicherweise Lukas ermöglicht, gelten die in unseren Gestaltungsrichtlinien festgelegten Regeln zur Verwendung des OpenBikeSensor Logos für Projekte und Geräte rund um das Open Citizen Science Projekt OpenBikeSensor.
+Dieses Logo kann und soll für alle Vorhaben, Geräte und Programme des Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> verwendet werden, solange die dort vorgegebenen Lizenzbestimmungen (LGPL) eingehalten werden.
 
-Die aktuelle Version findest Du in diesem Repository unter XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+Aufbauend auf den Gestaltungsoptionen unter einer Creative Comonse Lizenz, die uns freundlicherweise Lukas ermöglicht, gelten die in unseren Gestaltungsrichtlinien festgelegten Regeln zur Verwendung des Logos.
+
+Die aktuelle Version findest Du in diesem Repository unter <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a> (Gestaltungsrichtlinien).
+
+Die am häufigsten benötigten Varianten für die Darstellungen digital und für den Druck findest Du in den Ordnern wie folgt:
+
+* <a href="/Logogramm">Logogramm</a> (Logo mit Schriftzug)
+* <a href="/Logo">Logo</a> (Kurzform ohne Schriftzug)
 
 Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende issues zu öffnen oder auch direkt auf uns zuzukommen:
 info@openbikesensor.org
+https://OpenBikeSensor.org
 
 
 - - -
@@ -36,9 +44,13 @@ The concept of the logo is based on the idea of the OpenBikeSensor as a tool for
 
 In the Logo the gylphs are stretched like one might know it from the signage painted directly on the tarmac, e.g. the bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor itself. The space that remains in this tight situation is filled up by the lines that mark the distance. 
 
-### How to use it
+### When and how to use it
 
-The logo is quite solid, but don't stretch it (since it is already stretched by design). Feel free to give it any color you want. There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
+Building on the honorous creative commonse licence, Lukas contributed to the project, you can build your own design. Please make sure to follow the general rules and guidelines the community provides for the project.
+
+The current version you can find in the respective repository via <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a>.
+
+There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
 
 
 
