@@ -1,4 +1,4 @@
-# OpenBikeSensor Logo & Logogramm
+# OpenBikeSensor Logogramm & Logo
 
 <i><a href="#english">English version below</a></i>
 
@@ -20,16 +20,16 @@ Die einzelnen Glyphen wurden dabei gestreckt &mdash; wie Du es von Asphalt-Besch
 
 ### Nutzungsbedingungen
 
-Dieses Logo kann und soll für alle Vorhaben, Geräte und Programme des Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> verwendet werden, solange die dort vorgegebenen Lizenzbestimmungen (LGPL) eingehalten werden.
+Dieses Logo kann und soll für alle Vorhaben, Geräte und Programme des Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> verwendet werden, solange die dort vorgegebenen Lizenzbestimmungen (LGPL) eingehalten werden und Du Dich unserer Hacking Ethik in Dienst stellst.
 
-Aufbauend auf den Gestaltungsoptionen unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Lizenz mit Namensnennung, Teilen unter gleichen Bedingungen 4.0 international</a> (CC-BY-SA 4.0 international), die uns freundlicherweise Lukas ermöglicht, gelten die in unseren Gestaltungsrichtlinien festgelegten Regeln zur Verwendung des Logos. Die aktuelle Version findest Du in diesem Repository unter <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a> (Gestaltungsrichtlinien), Seite 13f.
+Aufbauend auf den Gestaltungsoptionen unter einer <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Lizenz mit Namensnennung, Teilen unter gleichen Bedingungen 4.0 international</a> (CC-BY-SA 4.0 international), die uns freundlicherweise Lukas ermöglicht, bist Du in Deiner Gestaltung frei. Bitte stelle dabei sicher, dass Du den im Style Guide festgeschriebenen Gestaltungsgrundsätzen folgst. Die aktuelle Version findest Du in diesem Repository unter <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a> (Gestaltungsrichtlinien), Seite 13f.
 
 Die am häufigsten benötigten Varianten für die Darstellung auf Bildschirmen bzw. im Netz sowie für den Druck findest Du in den Ordnern wie folgt:
 
 * <a href="./Logogramm">Logogramm</a> (Logo mit Schriftzug)
 * <a href="./Logo">Logo</a> (Kurzform ohne Schriftzug)
 
-Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende issues zu öffnen oder auch direkt auf uns zuzukommen:
+Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issues</a> zu öffnen oder auch direkt auf uns zuzukommen:
 info@openbikesensor.org
 https://OpenBikeSensor.org
 
@@ -40,19 +40,19 @@ https://OpenBikeSensor.org
 
 ### Origin & Designer
 
-This logo was created by <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a> as a contribution to the for our open citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a>. It originates out of the cycling initiative <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> in Germany.
+This logo was created by <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a> as a contribution to the open citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a>. It originates out of the cycling initiative <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> in Germany.
 
 ### Concept of the logo design
 
-The concept of the logo is based on the idea of the OpenBikeSensor as a tool for measuring distances between a cyclist and an overtaking motorist. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
+The concept of the logo is based on the idea of the respective sensor, a small electronic device attached to a bicycle that measures and records the distance to passing vehicles during the ride. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
 
-In the Logo the gylphs are stretched like one might know it from the signage painted directly on the tarmac, e.g. the bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor itself. The space that remains in this tight situation is filled up by the lines that mark the distance. 
+In the logo the gylphs are stretched like one might recognise from the signage painted directly on the tarmac, e.g. bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor itself. The space that remains in this tight situation is filled up by the lines that mark the distance. 
 
 ### When and how to use it
 
-Building on the honorous creative commonse licence, Lukas contributed to the project, you can build your own design. Please make sure to follow the general rules and guidelines the community provides for the project.
+You may and shall use this logo for all projects, activities, software and hardware in connection with the citizen science project <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> as long as you comply to the general licence agreements (LGPL) of the community and their sources as well as our hacking ethics.
 
-The current version you can find in the respective repository via <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a>.
+Building on the <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>, Lukas contributed to the project, you are free to create your own design. Please make sure to follow the general rules and guidelines the community provides for the project. The current version you can find in the respective repository via <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/tree/main/_Style-Guide" alt="OpenBikeSensor Style Guide (Gestaltungsrichtlinien)" rel="noopener noreferrer nofollow">OpenBikeSensor Style Guide</a>.
 
 There are some files provided that might fit the regular needs. In case you need any other file please rework it, but keep the appearance as close as possible to the original. 
 
