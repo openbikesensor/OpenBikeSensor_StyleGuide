@@ -60,9 +60,11 @@ Logogramm and logo were created by <a href="https://github.com/turbo-distortion/
 
 ### Concept of the logo design
 
-The concept of the logo is based on the derivative idea of the respective sensor, a small electronic device attached to a bicycle that measures and records the distance to passing vehicles during the ride. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
+The concept of the logogramm is based on the derivative idea of the respective sensor, a small electronic device attached to a bicycle that measures and records the distance to passing vehicles during the ride. The font is the DIN2014, a redesigned version of the typeface used in german road signage. 
 
 In the logo the gylphs are stretched like one might recognise from the signage painted directly on the tarmac, e.g. bus or taxi lanes. The three words, arranged in lanes, are put into a square as a reference to the boxy appearance of the sensor itself. The space that remains in this tight situation is filled up by the lines that mark the distance. 
+
+The logo, that contains the full typo OpenBikeSensor, is supplemented by a version with only the acronym OBS. It picks up the main design elements and reduces them to the bare minimum. The logo is meant especially for miniature applications (favicons, emoticons etc) that arise around our project.
 
 ### When and how to use it
 
