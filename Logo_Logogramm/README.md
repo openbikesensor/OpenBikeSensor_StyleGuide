@@ -4,6 +4,8 @@
 
 ![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg =450px)
 
+![OpenBikeSensor Logo](./Logogramm/screen_web/white-on-blue/OpenBikeSensor_Logogramm_white-on-blue_210x210mm_1000x1000px_whitespace.jpg){width=25%}
+
 ### Herkunft & Designer
 
 Das Logo für das Open Citizen Science Projekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a> wurde entwickelt von <a href="https://github.com/turbo-distortion/OpenBikeSensor-Logo" alt="turbo-distortion / OpenBikeSensor-Logo" rel="noopener noreferrer nofollow">Lukas Betzler</a>. Es entstand ursprünglich für das alternative Fahrrad-Forum <a href="https://zweirat-stuttgart.de" alt="Zweirat Stuttgart" rel="noopener noreferrer nofollow">Zweirat Stuttgart</a> / Deutschland.
