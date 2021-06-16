@@ -16,8 +16,8 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 * OpenCitizenScience für mehr Fahrrad-Freundlichkeit (Kurzbeschreibung zum Projekt)
 * Gesellschaftlicher (Mehr)Wert [in Arbeit]
 * Unser Selbstverständnis  
-	** Ziele  
-	** Werte  
+    - Ziele  
+    - Werte  
 * Hacking-Ethik & Manifest  
 * OpenInnovation  
 * Lizenzen & Urheberrechte  
