@@ -6,7 +6,7 @@ Dies ist das gemeinsame Repository rund um die Gestaltungsrichtlinien zum zivilg
 
 Aktuell werden die Richtlinien und Rahmenbedingungen zum Projekt von uns gemeinschaftlich erarbeitet. 
 
-Bringe Dich gern aktiv ein. Den aktuellen Entwurf kannst Du lesen und kommentieren via: 
+Bringe Dich gern aktiv ein. Den aktuellen Entwurf kannst Du lesen und kommentieren via:  
 https://assets.adobe.com/id/urn:aaid:sc:US:a77e619b-c0fe-4c0f-8a8e-0b8c3b51f4ac?view=published
 
 Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei die Lizenzbestimmungen für das repository und die einzelnen Dokumente im Speziellen.
@@ -15,28 +15,28 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 
 * OpenCitizenScience für mehr Fahrrad-Freundlichkeit (Kurzbeschreibung zum Projekt)
 * Gesellschaftlicher (Mehr)Wert [in Arbeit]
-* Unser Selbstverständnis 
-** Ziele 
-** Werte 
-* Hacking-Ethik & Manifest
+* Unser Selbstverständnis  
+	** Ziele  
+	** Werte  
+* Hacking-Ethik & Manifest  
 * OpenInnovation  
 * Lizenzen & Urheberrechte  
 * Limbisches System  
-** Schreibweise & Abkürzung  
+** Schreibweise & Abkürzung   
 ** Statt Echokammer – Teil der Lösung  
 ** Wir sind per Du  
-** Gendern & Barrierefreiheit 
+** Gendern & Barrierefreiheit  
 ** Mehrsprachigkeit und Internationalisieren  
-*** Die Kommunikation mit unserer Gemeinschaft  
-*** Die Kommunikation in der Entwicklung 
+*** Die Kommunikation mit unserer Gemeinschaft    
+*** Die Kommunikation in der Entwicklung  
 ** Netiquette  
 ** Namenskonvention Repositories  
 ** Namenskonventionen und Dateinamenschlüssel für Dokumente  
 * Logogramm & Logo  
-** Herkunft und Designer 
-** Nutzungsbedingungen 
-** Versionen des Logogramms für verschiedene Zwecke  
-** Versionen des Logogramms  im Farbraum des OpenBikeSensors 
+** Herkunft und Designer  
+** Nutzungsbedingungen  
+** Versionen des Logogramms für verschiedene Zwecke   
+** Versionen des Logogramms  im Farbraum des OpenBikeSensors  
 ** Logogramm in spezifischen Medien &  Platzieren des Logogramms auf Flächen  
 ** Logogramm auf dem OpenBikeSensor  
 ** Beispiele für Adaptionen der Community  
@@ -51,22 +51,22 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 ** Anwendung der Farben in Grafiken  
 ** Anwendung der Farben auf Karten  
 *** Deutschland  
-* Schriften  
+* Schriften   
 * Bildwelten  
-** Foto & Film  
+** Foto & Film    
 ** Illustrationen  
-* Design-Beispiele  
+* Design-Beispiele   
 ** Präsentationen  
-** Bilder zum Teilen in Social Media (share pics) 
-** Bekleidung & Assessoires 
+** Bilder zum Teilen in Social Media (share pics)  
+** Bekleidung & Assessoires  
 * Kommunikationskanäle  
 ** Twitter  
 ** YouTube  
 * Impressum  
 ** Mitarbeitende & Beitragende  
 ** Designer  
-** Mitwirkende
-** Fotos 
+** Mitwirkende  
+** Fotos  
 
 ## Inhaltsverzeichnis Repository
 
