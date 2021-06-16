@@ -40,6 +40,7 @@ Die am häufigsten benötigten Varianten für die Darstellung auf Bildschirmen b
 
 * <a href="./Logogramm">Logogramm</a> (Logo mit Schriftzug, Standard)
 * <a href="./Logo">Logo</a> (Kurzform des Akronyms, für besonders kleine Darstellungen)
+* <a href="./favicon">favicons</a> (sowohl für Produktiv- als auch Developer-Instanzen inkl. Code-Snippets)
 
 Fühle Dich frei, bei Fragen, Anregungen, Wünschen hier entsprechende <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issues</a> zu öffnen oder auch direkt auf uns zuzukommen:  
 info@openbikesensor.org  
@@ -74,6 +75,7 @@ The most frequent and commonly used variations of the logo for screen and print 
 
 * <a href="./Logogramm">Logogramm</a> (Logo with  logotype, wordmark, lettermark)
 * <a href="./Logo">Logo</a> (short version with the acronym)
+* <a href="./favicon">favicons</a> (produktive as well as developer instances incl. Code-Snippets)
 
 
 Please feel free to open an <a href="https://github.com/openbikesensor/OpenBikeSensor_StyleGuide/issues">issue</a> for further questions, ideas and requests or contact us directly via  
