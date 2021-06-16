@@ -22,51 +22,51 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 * OpenInnovation  
 * Lizenzen & Urheberrechte  
 * Limbisches System  
-** Schreibweise & Abkürzung   
-** Statt Echokammer – Teil der Lösung  
-** Wir sind per Du  
-** Gendern & Barrierefreiheit  
-** Mehrsprachigkeit und Internationalisieren  
-*** Die Kommunikation mit unserer Gemeinschaft    
-*** Die Kommunikation in der Entwicklung  
-** Netiquette  
-** Namenskonvention Repositories  
-** Namenskonventionen und Dateinamenschlüssel für Dokumente  
+    - Schreibweise & Abkürzung   
+    - Statt Echokammer – Teil der Lösung  
+    - Wir sind per Du  
+    - Gendern & Barrierefreiheit  
+    - Mehrsprachigkeit und Internationalisieren  
+         - Die Kommunikation mit unserer Gemeinschaft    
+         - Die Kommunikation in der Entwicklung  
+    - Netiquette  
+    - Namenskonvention Repositories  
+    - Namenskonventionen und Dateinamenschlüssel für Dokumente  
 * Logogramm & Logo  
-** Herkunft und Designer  
-** Nutzungsbedingungen  
-** Versionen des Logogramms für verschiedene Zwecke   
-** Versionen des Logogramms  im Farbraum des OpenBikeSensors  
-** Logogramm in spezifischen Medien &  Platzieren des Logogramms auf Flächen  
-** Logogramm auf dem OpenBikeSensor  
-** Beispiele für Adaptionen der Community  
+    - Herkunft und Designer  
+    - Nutzungsbedingungen  
+    - Versionen des Logogramms für verschiedene Zwecke   
+    - Versionen des Logogramms  im Farbraum des OpenBikeSensors  
+    - Logogramm in spezifischen Medien &  Platzieren des Logogramms auf Flächen  
+    - Logogramm auf dem OpenBikeSensor  
+    - Beispiele für Adaptionen der Community  
 * Logo (Mini-Form des Logogramms)  
 * Farbraum & Muster  
-** Farbtabellen  
-*** Primär-Farben: Schmuck-& Akzent-Farben plus neutrale Farben  
-*** Primär-Farben: Farbfächer  
-*** Sekundär-Farben  
-** Farb-Harmonien  
-** Anwendung der Farben: 60-30-10-Regel  
-** Anwendung der Farben in Grafiken  
-** Anwendung der Farben auf Karten  
-*** Deutschland  
+    - Farbtabellen  
+         - Primär-Farben: Schmuck-& Akzent-Farben plus neutrale Farben  
+         - Primär-Farben: Farbfächer  
+         - Sekundär-Farben  
+    - Farb-Harmonien  
+    - Anwendung der Farben: 60-30-10-Regel  
+    - Anwendung der Farben in Grafiken  
+    - Anwendung der Farben auf Karten  
+         - Deutschland  
 * Schriften   
 * Bildwelten  
-** Foto & Film    
-** Illustrationen  
+    - Foto & Film    
+    - Illustrationen  
 * Design-Beispiele   
-** Präsentationen  
-** Bilder zum Teilen in Social Media (share pics)  
-** Bekleidung & Assessoires  
+    - Präsentationen  
+    - Bilder zum Teilen in Social Media (share pics)  
+    - Bekleidung & Assessoires  
 * Kommunikationskanäle  
-** Twitter  
-** YouTube  
+    - Twitter  
+    - YouTube  
 * Impressum  
-** Mitarbeitende & Beitragende  
-** Designer  
-** Mitwirkende  
-** Fotos  
+    - Mitarbeitende & Beitragende  
+    - Designer  
+    - Mitwirkende  
+    - Fotos  
 
 ## Inhaltsverzeichnis Repository
 
