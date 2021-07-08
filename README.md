@@ -106,6 +106,7 @@ The guidelines are currently in progress. Due to the fact, that our main communi
 
 ## content of this repository
 
+* <a href="./Fotos">Fotos</a>
 * <a href="./Logo_Logogramm">Logogramm & Logo</a>
 * <a href="./Style_Guide">Style Guide (row data of this document)</a> [ german version still in progress ]
 
