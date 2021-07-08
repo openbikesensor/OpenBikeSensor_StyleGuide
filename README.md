@@ -29,13 +29,13 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 * Kommunikationskanäle  
 * Impressum  
 
-Ein detaillierteres Inhaltsverzeichnis findest Du unter der Rubrik <a href="./Style_Guide">Style Guide</a>
+Ein detaillierteres Inhaltsverzeichnis findest Du unter der Rubrik <a href="./_Style-Guide">Style Guide</a>
 
 ## Inhaltsverzeichnis Repository
 
 * <a href="./Fotos">Fotos</a>
 * <a href="./Logo_Logogramm">Logogramm & Logo</a>
-* <a href="./Style_Guide">Style Guide (Feindaten des Dokuments)</a> [ in Vorbereitung ]
+* <a href="./_Style-Guide">Style Guide (Feindaten des Dokuments)</a> [ in Vorbereitung ]
 
 
 ## Lizenz und Nutzungsrechte
