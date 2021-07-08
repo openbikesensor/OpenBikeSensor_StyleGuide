@@ -70,6 +70,7 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 
 ## Inhaltsverzeichnis Repository
 
+* <a href="./Fotos">Fotos</a>
 * <a href="./Logo_Logogramm">Logogramm & Logo</a>
 * <a href="./Style_Guide">Style Guide (Feindaten des Dokuments)</a> [ in Vorbereitung ]
 
