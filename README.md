@@ -16,57 +16,20 @@ Zudem bieten wir Dir hier die offenen Daten zum Projekt an. Bitte beachte dabei 
 * OpenCitizenScience für mehr Fahrrad-Freundlichkeit (Kurzbeschreibung zum Projekt)
 * Gesellschaftlicher (Mehr)Wert [in Arbeit]
 * Unser Selbstverständnis  
-    - Ziele  
-    - Werte  
 * Hacking-Ethik & Manifest  
 * OpenInnovation  
 * Lizenzen & Urheberrechte  
 * Limbisches System  
-    - Schreibweise & Abkürzung   
-    - Statt Echokammer – Teil der Lösung  
-    - Wir sind per Du  
-    - Gendern & Barrierefreiheit  
-    - Mehrsprachigkeit und Internationalisieren  
-         - Die Kommunikation mit unserer Gemeinschaft    
-         - Die Kommunikation in der Entwicklung  
-    - Netiquette  
-    - Namenskonvention Repositories  
-    - Namenskonventionen und Dateinamenschlüssel für Dokumente  
-* Logogramm & Logo  
-    - Herkunft und Designer  
-    - Nutzungsbedingungen  
-    - Versionen des Logogramms für verschiedene Zwecke   
-    - Versionen des Logogramms  im Farbraum des OpenBikeSensors  
-    - Logogramm in spezifischen Medien &  Platzieren des Logogramms auf Flächen  
-    - Logogramm auf dem OpenBikeSensor  
-    - Beispiele für Adaptionen der Community  
+* Logogramm & Logo    
 * Logo (Mini-Form des Logogramms)  
 * Farbraum & Muster  
-    - Farbtabellen  
-         - Primär-Farben: Schmuck-& Akzent-Farben plus neutrale Farben  
-         - Primär-Farben: Farbfächer  
-         - Sekundär-Farben  
-    - Farb-Harmonien  
-    - Anwendung der Farben: 60-30-10-Regel  
-    - Anwendung der Farben in Grafiken  
-    - Anwendung der Farben auf Karten  
-         - Deutschland  
 * Schriften   
 * Bildwelten  
-    - Foto & Film    
-    - Illustrationen  
 * Design-Beispiele   
-    - Präsentationen  
-    - Bilder zum Teilen in Social Media (share pics)  
-    - Bekleidung & Assessoires  
 * Kommunikationskanäle  
-    - Twitter  
-    - YouTube  
 * Impressum  
-    - Mitarbeitende & Beitragende  
-    - Designer  
-    - Mitwirkende  
-    - Fotos  
+
+Ein detaillierteres Inhaltsverzeichnis findest Du unter der Rubrik <a href="./Style_Guide">Style Guide</a>
 
 ## Inhaltsverzeichnis Repository
 
