@@ -1,5 +1,7 @@
 # OpenBikeSensor StyleGuide (Gestaltungsrichtlinien)
 
+**This repository is not actively maintained and contains content which should not be used (logo with wrong font, etc.)**
+
 <i><a href="#english">English version below</a></i>
 
 Dies ist das gemeinsame Repository rund um die Gestaltungsrichtlinien zum zivilgesellschaftlichen Forschungsprojekt <a href="https://github.com/openbikesensor" alt="OpenBikeSensor" rel="noopener noreferrer nofollow">OpenBikeSensor</a>.
